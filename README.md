@@ -1,1 +1,2 @@
-# Introducci-n-a-la-Inteligencia-Artificial-2025
+Curso Introducción a la Inteligencia Artificial
+2025
